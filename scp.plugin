@@ -1,0 +1,10 @@
+[Plugin]
+Loader=python
+Module=scp
+IAge=3
+Name=Scp
+Description=Scp Plugin 
+Authors=David Sedeño
+Copyright=Copyright © 2012 David Sedeño
+Website=https://github.com/davidsf/gedit-scp
+Version=3.0.0

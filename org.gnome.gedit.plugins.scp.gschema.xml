@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.gedit.plugins.scp" path="/org/gnome/gedit/plugins/scp/">
+    <key type="s" name="server">
+      <default>''</default>
+      <summary>Server</summary>
+      <description>Ip address or dns name of the target server with destination dir.</description>
+    </key>
+  </schema>
+</schemalist>
+
